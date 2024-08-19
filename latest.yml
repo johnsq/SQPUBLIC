@@ -1,0 +1,9 @@
+version: 5.1.15-5
+files:
+  - url: SpeedQuizzing-Pro-Setup-5.1.15-5.exe
+    sha512: hdZY1ge/ZkJACIYr0uhCN4XrHhCd0vsJP+lw0kQ4CzUIG7QLJM2Nt3QmRq3oBczIG55q2aLZt2yu2ZlGvs9onA==
+    size: 123518664
+    isAdminRightsRequired: true
+path: SpeedQuizzing-Pro-Setup-5.1.15-5.exe
+sha512: hdZY1ge/ZkJACIYr0uhCN4XrHhCd0vsJP+lw0kQ4CzUIG7QLJM2Nt3QmRq3oBczIG55q2aLZt2yu2ZlGvs9onA==
+releaseDate: '2024-08-16T12:31:13.068Z'
